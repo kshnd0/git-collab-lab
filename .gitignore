@@ -1,3 +1,4 @@
+
 # Служебные файлы
 .idea/
 .vscode/
@@ -9,3 +10,4 @@ node_modules/
 # Системные файлы
 .DS_Store
 Thumbs.db
+
